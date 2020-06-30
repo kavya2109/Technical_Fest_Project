@@ -1,0 +1,64 @@
+<html>
+<head>
+<style>
+.a1
+{
+color:white;
+background-color:black;
+background-image:url("/home/user/mini project svecw/bg1.jpeg");
+background-repeat : no-repeat;
+background-size:1600px 1600px;
+
+}
+
+
+
+div.scrollmenu {
+  background-color:navy blue;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: red;
+}
+
+h3.link a:link {
+  color: red;
+}
+
+h3.link a:visited {
+  color: white;
+}
+
+h3.link a:hover {
+  color: hotpink;
+}
+
+h3.link a:active {
+  color: yellow;
+}
+
+
+</style>
+</head>
+
+<body class = a1>
+<div class="scrollmenu">
+  <a href="svecwfest20.html">Home</a>
+  <a href="svecwevents.html">Events</a>
+  <a href="workshop.html">Workshop</a>
+  <a href="registrationsvecw.html">Registration</a>
+  <a href="sponsers.html">Sponsers</a>
+  <a href="team.html">team</a>
+  
+</div>
+

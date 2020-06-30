@@ -1,0 +1,74 @@
+<html>
+<head>
+<style>
+.a1
+{
+color:white;
+background-color:black;
+background-image:url("/home/user/1212/mini project svecw/bg1.jpeg");
+background-repeat : no-repeat;
+background-size:1600px 1600px;
+
+}
+
+div.scrollmenu {
+  background-color: navy blue;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: red;
+}
+
+
+.c1
+{
+color : white;
+font-family: serif;
+font-size : 300%
+}
+.c2
+{
+font-family:serif;
+font-size:200%;
+}
+</style>
+</head>
+<body class = a1>
+<div class="scrollmenu">
+  <a href="svecwfest20.html">Home</a>
+  <a href="svecwevents.html">Events</a>
+  <a href="workshop.html">Workshop</a>
+  <a href="registratiosvecw.html">Registration</a>
+  <a href="#support">Sponsers</a>
+  <a href="#blog">team</a>
+  
+</div>
+
+<div style = "position:relative;font-size:150px;right:50;top:10;left:470;z-index:2;font-family:serif;">2020</div>
+<div style = "position:relative;font-size:100px;right:50;top:-70;left:250;color:red;z-index:1;font-family:serif;">MEDHAMILAN</div>
+<h1 class = "c1" align = "center"><marquee>SVECWFEST20</marquee></H1>
+<h3 align = "center">THE ANNUAL TECHNICAL AND CULTURAL FEST</H3>
+<H2 CLASS= "C2" align = "center">SVECW</H2>
+<h2 class = "c2" align = "center">7th to 10th</h2>
+<table BORDER = "1" ALIGN = "CENTER" WIDTH = 30%><tr><th  style ="color:red"><h2>"BE THERE<BR><br> OR BE<BR><br> THE SAME..!!!" </TH></TR></TABLE>
+<center><h2> Do participate and enjoy the events</h2></center><br><br><br><br><Br><br><br><Br><Br><br><br><br>
+<h3 ALIGN = CENTER><b><ul>WHAT WE WANT TO SEE </ul></b></H3>
+<center><h3 ALIGN = CENTER><i>We desire a diverse convergence of innovation, creativity and intelligence; to take on problems and challenges in the fields of technology and management. We want to create a perfect environment for competition, development and learning.
+
+Thus, we welcome all techno-management enthusiasts in this extravaganza of technology and management; and motivate them to view reality upside down.<i><h3></center>
+
+
+
+
+</body>
+</html>

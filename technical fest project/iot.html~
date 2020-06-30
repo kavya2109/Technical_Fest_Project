@@ -1,0 +1,92 @@
+<html>
+<head>
+<style>
+.a1
+{
+color:white;
+background-color:black;
+background-image:url("/home/user/Downloads/bg1.jpeg");
+background-repeat : no-repeat;
+background-size:1600px 1600px;
+
+}
+
+
+
+div.scrollmenu {
+  background-color:navy blue;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: red;
+}
+
+h3.link a:link {
+  color: red;
+}
+
+h3.link a:visited {
+  color: white;
+}
+
+h3.link a:hover {
+  color: hotpink;
+}
+
+h3.link a:active {
+  color: yellow;
+}
+
+
+</style>
+</head>
+
+<body class = a1>
+<div class="scrollmenu">
+  <a href="svecwfest20.html">Home</a>
+  <a href="svecwevents.html">Events</a>
+  <a href="workshop.html">Workshop</a>
+  <a href="registrationsvecw.html">Registration</a>
+  <a href="sponsers.html">Sponsers</a>
+  <a href="team.html">team</a>
+  
+</div>
+<center>
+<img src= "/home/user/1212/mini project svecw/iot.jpeg" width = "500px">
+</center>
+<center><h1 style = "color : red;text-decoration:underline">ABOUT THE EVENT</H1></center><br><br>
+<H2 STYLE = "COLOR : pink">INTERNET OF THINGS(IOT)</H2>
+<UL><H3><B><li>The Internet of Things (IOT), is the network of physical objects or things embedded with electronics, software, sensors, and <li>connectivity to enable objects to exchange data with the production, operator and/or other connected devices.</li>
+#IOT helps in developing smart real-time industry and domestic applications involving safety, ease of usage, time criticality, entertainment and comfort with the help of #Embedded, #Electronics, #software, #sensor and #communication technologies so it opened up lot of career/entrepreneurial avenues for those who are studying #electronics, #instrumentation, #computer_science and IT engineering.</li></b></h3>
+</ul>
+<h2 style = "color : pink">Highlights of the Program</h2>
+<ul><h3><b><li>
+Hands-On Lab experience with various IOT applications, Micro #controller #programming, various sensors and developing IOT Apps.</li>
+<li> Work on real time connected devices problems as a project under the guidance of experienced technologist and Industry experts.</li>
+<li>Best IOT based technology solution presented by participants will get incubation support and get hardware themselves per batch.</li>
+<li>Get industry recognized #Internship certification to improve your career prospectus.</li>
+<li>Group Activities and Contests to showcase your talents.</li>
+<li>Special career development and entrepreneurial sessions.</li>
+</b></h3></ul>
+<h2 style = "color:pink">Who Can Attend </h2>
+<ul><h3><b><li>
+ B.E/B.Tech Students of Computer science, Information Technology, Electrical, Electronics, Instrumentation, Telecommunication engineering branches can participate.</li><li>B.Sc/M.Sc/BCA/MCA students can participate.</li>
+<li>Startup & Technology enthusiasts.</li></b></h3></ul>
+<h2 style = "color:pink">NOTE </h2>
+<ul><h3><b><li>
+Only limited seats per each centre available and the seats are filled on "FIRST COME & FIRST SERVE BASIS" If the seats are completed before the deadline we will close the registrations, so to make sure you grab a seat by completing the registration process at the earliest.
+
+</li></b></h3></ul>
+</body></html>
+
+ 

@@ -1,0 +1,129 @@
+<html>
+<head>
+<style>
+.a1
+{
+color:white;
+background-color:black;
+background-image:url("/home/user/1212/mini project svecw/bg1.jpeg");
+background-repeat : no-repeat;
+background-size:2000px 2000px;
+
+}
+
+
+
+div.scrollmenu {
+  background-color:navy blue;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: red;
+}
+
+h3.link a:link {
+  color: red;
+}
+
+h3.link a:visited {
+  color: white;
+}
+
+h3.link a:hover {
+  color: hotpink;
+}
+
+h3.link a:active {
+  color: yellow;
+}
+
+
+</style>
+</head>
+
+<body class = a1>
+<div class="scrollmenu">
+  <a href="svecwfest20.html">Home</a>
+  <a href="svecwevents.html">Events</a>
+  <a href="workshop.html">Workshop</a>
+  <a href="registrationsvecw.html">Registration</a>
+  <a href="sponsers.html">Sponsers</a>
+  <a href="team.html">team</a>
+  
+</div>
+
+<center>
+<img src= "/home/user/1212/mini project svecw/ai.jpeg" width = "500px">
+</center>
+<center><h1 style = "color : red;text-decoration:underline">ARTIFICIAL INTELLIGENCE</H1></center><br><br>
+<H3><B>Artificial Intelligence will define the next generation of software solutions. AI is the need of the hour because of the potential applications it might have, because of the media and general public attention it received, as well as because of the incredible amount of funding investors are devoting to it as never before. This is a type of "deep learning" that allows machines to process information for themselves on a very sophisticated level, allowing them to perform complex functions like facial recognition. Technoxian offers you a deep in-sight to this future technology, where industry experts will be sharing their experiences and knowledge.</B></H3>
+
+<h2 style = "color : pink;text-decoration:underline">Highlights of the Program</h2>
+<UL><H3><B><LI>Exposure with Industry Experts.</LI>
+<LI>Hands on Practice.</LI>
+<LI>Certificate of Participation by All India Council for Robotics & Automation</LI>
+<LI>Free AICRA student membership.
+</LI></b></h3></ul>
+<h2 style = "color : pink;text-decoration:underline">Workshop Module</h2>
+<h3 style = "color : pink;"><bi>Introduction to AI</h3></bi>
+<ul><h3><b><li>History of AI</li>
+<li>Application of AI</li>
+<li>Machine learning basics</li>
+<li>Gradient Descent in AI</li>
+<li>Cost Function in AI</li></b></h3></ul>
+<h3 style = "color : pink;"><bi>Python Basics</h3></bi>
+<ul><h3><b><li>
+Datatypes</li>
+<li>Conditional Statements</li></b></h3></ul>
+<h3 style = "color : pink;"><bi>NumPy</h3></bi>
+<ul><h3><b><li>Ndarray Object</li>
+<li>Data Types in NumPy</li>
+<li>Array Attributes and Manipulation in NumPy</li>
+<li>Indexing & Slicing</li></b></h3></ul>
+
+<h3 style = "color : pink;"><bi>Pandas</h3></bi>
+<ul><h3><b><li>Data Structures in Pandas</li>
+
+<li>Series and Data Frame in Pandas</li>
+<li>Basic Functions in Pandas</li>
+<li>Iteration</li>
+<li>Sorting</li>
+<li>Missing Data</li>
+<li>Merging/ Joining</li>
+<li>Categorical Data</li></b></h3></ul>
+
+<h3 style = "color : pink;"><bi>Regression</h3></bi>
+<ul><h3><b><li>Simple Linear Regression</li>
+<li>Multiple Linear Regressions</li>
+<li>Decision Tree Regression</li>
+<li>Random Forest Regression</li></b></h3></ul>
+
+<h3 style = "color : pink;"><bi>Classification</h3></bi>
+<ul><h3><b><li>Support Vector Machine Classification (SVM)</li>
+<li>KNN Classification</li></b></h3></ul>
+
+<h3 style = "color : pink;"><bi>Clustering</h3></bi>
+<ul><h3><b><li>K-means Clustering</li>
+<li>Reinforcement Learning</li>
+<li>Bellman Equation</li>
+<li>Q-Learning Algorithm</li></b></h3></ul>
+
+<h3 style = "color : pink;"><bi>Projects</h3></bi>
+<ul><h3><b><li>Experience V/S Salary</li>
+<li>Customers Classification</li>
+<li>Increasing company profit</li></b></h3></ul>
+
+
+</BODY>
+
+</HTML>
